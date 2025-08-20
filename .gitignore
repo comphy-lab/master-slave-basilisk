@@ -4,6 +4,7 @@
 **/restart*
 **/intermediate*
 **/_darcs
+**/.qcc*
 # Prerequisites
 *.d
 

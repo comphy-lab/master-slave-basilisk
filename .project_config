@@ -1,2 +1,2 @@
-export BASILISK=/Users/vatsal/Library/CloudStorage/Dropbox/0-Projects/proof-of-concepts/ContactLine/GLE_solvers/master-slave-basilisk/basilisk/src
+export BASILISK=/host/basilisk/src
 export PATH=$PATH:$BASILISK
