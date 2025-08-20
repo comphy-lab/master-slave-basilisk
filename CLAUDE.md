@@ -8,7 +8,7 @@ This is a master-slave computational fluid dynamics simulation framework built o
 
 ## Project Structure
 
-- **`basilisk/`** - Complete Basilisk CFD framework source code (darcs version control)
+- **`basilisk/`** - Complete Basilisk CFD framework source code (darcs version control) --> this is READ-ONLY. Do not edit this directory or any files in it.
   - **`src/`** - Core Basilisk framework with solvers, grid systems, and utilities
   - **`src/master.h`** and **`src/slave.h`** - Coupling interface for master-slave simulations
 - **`simulationCases/`** - Master-slave coupling example implementations
