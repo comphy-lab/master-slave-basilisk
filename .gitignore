@@ -66,3 +66,4 @@ simulationCases/slave-vertStack
 .gitignore
 simulationCases/master-horiStack
 simulationCases/master-vertStack
+simulationCases/master-vertiStack
