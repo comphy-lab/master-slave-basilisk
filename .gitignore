@@ -1,4 +1,11 @@
+**/.DS_Store
+# Basilisk specific
+**/master
+**/*.mp4
+**/restart*
+**/intermediate*
 **/_darcs
+**/.qcc*
 # Prerequisites
 *.d
 
@@ -54,3 +61,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+simulationCases/slave
+simulationCases/slave-vertStack
+simulationCases/master-horiStack
+simulationCases/master-vertStack
+simulationCases/master-vertiStack
