@@ -1,3 +1,4 @@
+**/.DS_Store
 # Basilisk specific
 **/master
 **/*.mp4
@@ -60,3 +61,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+simulationCases/slave
+simulationCases/slave-vertStack
+.gitignore
+simulationCases/master-horiStack
+simulationCases/master-vertStack

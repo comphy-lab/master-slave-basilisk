@@ -151,3 +151,4 @@ export PATH=$PATH:$BASILISK
 
 ### Symbol Filtering
 The objcopy step is critical for proper linking. It ensures only the required coupling functions are exported from the slave object file, preventing symbol conflicts between master and slave solvers.
+- do not compile or execute basilisk codes, tell the user to do it
